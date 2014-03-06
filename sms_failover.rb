@@ -23,6 +23,10 @@ get '/ping' do
   [200, "OK"]
 end
 
+get '/mark-time' do
+  [200, Time.now().strftime("%d %b %Y %H:%M:%S.%3N")]
+end
+
 get '/queue', :provides => :json do
   [200, SmsMessage.all(marked: false).to_json]
 end

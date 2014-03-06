@@ -9,3 +9,18 @@
 [03/05/14 22:15:40 -0500 Mikes-PGI-MacBook-Pro.local (61824)] WARN : Agent configured not to send data in this environment.
 [03/05/14 22:15:40 -0500 Mikes-PGI-MacBook-Pro.local (61824)] INFO : New Relic Ruby Agent 3.5.2 Initialized: pid = 61824
 [03/05/14 22:15:40 -0500 Mikes-PGI-MacBook-Pro.local (61824)] INFO : Agent Log at /Users/mikeodell/Development/envicor-failover/envicor-failover/log/newrelic_agent.log
+[03/06/14 09:35:09 -0500 Mikes-PGI-MacBook-Pro.local (63755)] INFO : Dispatcher: sinatra
+[03/06/14 09:35:09 -0500 Mikes-PGI-MacBook-Pro.local (63755)] ERROR : Unable to determine application name. Please set the application name in your newrelic.yml or in a NEW_RELIC_APP_NAME environment variable.
+[03/06/14 09:35:09 -0500 Mikes-PGI-MacBook-Pro.local (63755)] WARN : Agent configured not to send data in this environment.
+[03/06/14 09:35:09 -0500 Mikes-PGI-MacBook-Pro.local (63755)] INFO : New Relic Ruby Agent 3.5.2 Initialized: pid = 63755
+[03/06/14 09:35:09 -0500 Mikes-PGI-MacBook-Pro.local (63755)] INFO : Agent Log at /Users/mikeodell/Development/envicor-failover/new-envicor-failover/log/newrelic_agent.log
+[03/06/14 09:36:57 -0500 Mikes-PGI-MacBook-Pro.local (63784)] INFO : Dispatcher: sinatra
+[03/06/14 09:36:57 -0500 Mikes-PGI-MacBook-Pro.local (63784)] ERROR : Unable to determine application name. Please set the application name in your newrelic.yml or in a NEW_RELIC_APP_NAME environment variable.
+[03/06/14 09:36:57 -0500 Mikes-PGI-MacBook-Pro.local (63784)] WARN : Agent configured not to send data in this environment.
+[03/06/14 09:36:57 -0500 Mikes-PGI-MacBook-Pro.local (63784)] INFO : New Relic Ruby Agent 3.5.2 Initialized: pid = 63784
+[03/06/14 09:36:57 -0500 Mikes-PGI-MacBook-Pro.local (63784)] INFO : Agent Log at /Users/mikeodell/Development/envicor-failover/new-envicor-failover/log/newrelic_agent.log
+[03/06/14 09:38:59 -0500 Mikes-PGI-MacBook-Pro.local (63816)] INFO : Dispatcher: sinatra
+[03/06/14 09:38:59 -0500 Mikes-PGI-MacBook-Pro.local (63816)] ERROR : Unable to determine application name. Please set the application name in your newrelic.yml or in a NEW_RELIC_APP_NAME environment variable.
+[03/06/14 09:38:59 -0500 Mikes-PGI-MacBook-Pro.local (63816)] WARN : Agent configured not to send data in this environment.
+[03/06/14 09:38:59 -0500 Mikes-PGI-MacBook-Pro.local (63816)] INFO : New Relic Ruby Agent 3.5.2 Initialized: pid = 63816
+[03/06/14 09:38:59 -0500 Mikes-PGI-MacBook-Pro.local (63816)] INFO : Agent Log at /Users/mikeodell/Development/envicor-failover/new-envicor-failover/log/newrelic_agent.log
