@@ -24,7 +24,8 @@ get '/ping' do
 end
 
 get '/mark-time' do
-  [200, Time.now().strftime("%d %b %Y %H:%M:%S.%3N")]
+  # [200, Time.now().strftime("%d %b %Y %H:%M:%S.%3N")]
+  [200, Time.now().strftime("%Y%m%d%H%M%S")]
 end
 
 get '/queue', :provides => :json do
